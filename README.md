@@ -22,3 +22,11 @@ I will also add a new file to this this commit. (Total of two Files)
 
 _________________________________________________________________
 
+Testing git reset commit_ssh
+
+not testing git reset HEAD filename
+
+not testing git checkout HEAD filename
+
+
+
